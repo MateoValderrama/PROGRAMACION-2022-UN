@@ -1,4 +1,4 @@
-PROGRAMACION/2022/UN. 
+PROGRAMACION/2022/UN 
 El presente repositorio cuenta con la función de albergar y mostrar todas las actividades, laboratorios, proyectos y líneas de código que sea realizado en función de la asignatura a cursar (Programación de computadores), por ende cuenta con una índole académica y práctica en coherencia con lo descrito anteriormente. A lo largo del semestre trabajaremos el lenguaje de programación de Python como base de la asignatura.
 
 
